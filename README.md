@@ -11,12 +11,12 @@ problems using AI and modern web technologies.
 
 ## About Me
 
--      Information Science and Engineering student
--      Interested in AI, Machine Learning and Deep Learning
--      Currently working on Computer Vision projects
--      Interested in Full-Stack Development
--      Interested in AI research and real-world applications
--      Always trying to learn something new
+- Information Science and Engineering student
+- Interested in AI, Machine Learning and Deep Learning
+- Currently working on Computer Vision projects
+- Interested in Full-Stack Development
+- Interested in AI research and real-world applications
+- Always trying to learn something new
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Git • GitHub • Docker
 
 ## Projects
 
-### 👁️ Eye Vision Assessment System
+###   Eye Vision Assessment System
 
 An AI-based project for cataract detection and eye vision assessment.
 
