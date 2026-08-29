@@ -1,4 +1,4 @@
-# Hi, I'm Preetham Bhat S C 👋
+# Hi, I'm Preetham Bhat S C 
 
 I'm an Information Science and Engineering student interested in
 Artificial Intelligence, Machine Learning and software development.
@@ -11,12 +11,12 @@ problems using AI and modern web technologies.
 
 ## About Me
 
--   🎓 Information Science and Engineering student
--   🤖 Interested in AI, Machine Learning and Deep Learning
--   👁️ Currently working on Computer Vision projects
--   💻 Interested in Full-Stack Development
--   🔬 Interested in AI research and real-world applications
--   🌱 Always trying to learn something new
+-      Information Science and Engineering student
+-      Interested in AI, Machine Learning and Deep Learning
+-      Currently working on Computer Vision projects
+-      Interested in Full-Stack Development
+-      Interested in AI research and real-world applications
+-      Always trying to learn something new
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ MySQL and Docker.
 
 ------------------------------------------------------------------------
 
-### 🧠 TRUSTAI
+###   TRUSTAI
 
 A project focused on making AI predictions more reliable by considering
 how confident the model is about its predictions.
@@ -66,7 +66,7 @@ out-of-distribution detection, explainability and human feedback.
 
 ------------------------------------------------------------------------
 
-### 🎓 AI Learning Platform
+###   AI Learning Platform
 
 A learning platform that explores how AI can be used to make online
 learning and assessments more interactive.
@@ -101,8 +101,8 @@ I work on more projects.
 
 ## Connect With Me
 
-📧 Email: preethambhat844@gmail.com
+  Email: preethambhat844@gmail.com
 
-💼 LinkedIn: \[Your LinkedIn Profile\]
+  LinkedIn: \[Your LinkedIn Profile\]
 
-🐙 GitHub: Preethambhat-2104
+  GitHub: Preethambhat-2104
