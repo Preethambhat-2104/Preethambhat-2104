@@ -103,6 +103,6 @@ I work on more projects.
 
   Email: preethambhat844@gmail.com
 
-  LinkedIn: \[Your LinkedIn Profile\]
+  LinkedIn: \[https://www.linkedin.com/in/preetham-bhat2104]
 
   GitHub: Preethambhat-2104
